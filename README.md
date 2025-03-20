@@ -6,7 +6,7 @@
 - 💞️ I love video games
 - ✨ "iwhgwytte, itvfom." -iykyk, "No power in the verse can stop me" -River Tam
 
-![ecole1rllco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ecole1rllco&theme=chartreuse-dark&hide_border=true)
+<!-- NOT WORKING :( ![ecole1rllco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ecole1rllco&theme=chartreuse-dark&hide_border=true)-->
 
 <!--
 **ecole1rllco/ecole1rllco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
