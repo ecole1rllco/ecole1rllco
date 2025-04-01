@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on app development with WinUI3 and Maui
 - 🌱 I’m currently learning ASP.NET
-- ⚡ Fun fact: I have lived/travelled in Japan, Korea, Australia, New Zealand, and the Phillipines.
+- ⚡ Fun fact: I have lived/travelled to Japan, Korea, Australia, New Zealand, and the Phillipines.
 - 💞️ Favortie Games: Chrono Cross, Zelda, Final Fantasy, League of Legends, Stardew Valley
 - ✨ "iwhgwytte, itvfom." -iykyk, "No power in the verse can stop me" -River Tam
 
