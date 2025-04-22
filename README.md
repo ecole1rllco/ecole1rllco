@@ -17,6 +17,8 @@ Tech Stack:
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22vjbo3qfflrsxontchtp22iq)
 
+![ecole1rllco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ecole1rllco&theme=chartreuse-dark&hide_border=true)-
+
 <!-- NOT WORKING :( ![ecole1rllco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ecole1rllco&theme=chartreuse-dark&hide_border=true)-->
 
 <!--
