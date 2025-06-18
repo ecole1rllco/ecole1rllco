@@ -15,7 +15,7 @@ Tech Stack:
 
 <br>
 
-(you know it's been a busy day when it's the same song lol)
+   (you know it's been a busy day when it's the same song)
 <br>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22vjbo3qfflrsxontchtp22iq)
 
