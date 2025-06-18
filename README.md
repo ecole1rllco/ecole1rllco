@@ -11,15 +11,13 @@
 Tech Stack:
 <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva%20-%20%23292929?style=for-the-badge&logo=canva&logoColor=%#00C4CC)
-
-
+   
 <br>
 
-   (you know it's been a busy day when it's the same song)
-<br>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22vjbo3qfflrsxontchtp22iq)
 
-![ecole1rllco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ecole1rllco&theme=chartreuse-dark&hide_border=true)-
+![ecole1rllco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ecole1rllco&theme=chartreuse-dark&hide_border=true)
+
 
 <!--
 - 👯 I’m looking to collaborate on ...
