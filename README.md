@@ -15,6 +15,8 @@ Tech Stack:
 
 <br>
 
+(you know it's been a busy day when it's the same song lol)
+<br>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22vjbo3qfflrsxontchtp22iq)
 
 ![ecole1rllco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ecole1rllco&theme=chartreuse-dark&hide_border=true)-
