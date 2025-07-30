@@ -2,7 +2,7 @@
 
 - ⚡ Fun fact: I have lived/travelled to Japan, Korea, Australia, New Zealand, and the Phillipines.
 - 💞️ Favortie Games: Chrono Cross, Zelda, Final Fantasy, League of Legends, Stardew Valley
-- ✨ "iwhgwytte, itvfom." -iykyk, "No power in the verse can stop me." -River Tam
+
 
 <br>
 
@@ -26,4 +26,5 @@ Tech Stack:
 - 📫 How to reach me: ...
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
+- ✨ "iwhgwytte, itvfom." -iykyk, "No power in the verse can stop me." -River Tam 
 -->
