@@ -16,17 +16,12 @@ Tech Stack:
 
 ![Streak - Github API Error](https://github-readme-streak-stats.herokuapp.com/?user=ecole1rllco&theme=chartreuse-dark&hide_border=true)
 
-<h2>🌟 R. L. Laughlin Public Apps</h2>
+## 🌟 R. L. Laughlin Public Apps
 
-<a href="https://play.google.com/store/apps/details?id=com.rllco.www.flow_rate_calculator" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Play-Play%20Store-green?logo=google-play&style=for-the-badge" alt="Google Play">
-</a>
+[![Google Play](https://img.shields.io/badge/Google%20Play-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.rllco.www.flow_rate_calculator)
 
-<br/>
+[![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-Download-blue?logo=microsoft&style=for-the-badge)](https://apps.microsoft.com/detail/9n65x9r5mhwq?hl=en-US&gl=US)
 
-<a href="https://apps.microsoft.com/detail/9n65x9r5mhwq?hl=en-US&gl=US" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20Store-Download-blue?logo=microsoft&style=for-the-badge" alt="Microsoft Store">
-</a>
 
 
 <!--
