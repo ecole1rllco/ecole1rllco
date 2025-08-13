@@ -7,7 +7,7 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva%20-%20%23292929?style=for-the-badge&logo=canva&logoColor=%#00C4CC)
 
-## 🌟 R. L. Laughlin Public Apps
+## 🌟 R. L. Laughlin Orifice Flow Rate Calculator
 
 [![Google Play](https://img.shields.io/badge/Google%20Play-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.rllco.www.flow_rate_calculator)
 
