@@ -16,6 +16,11 @@ Tech Stack:
 
 ![Streak - Github API Error](https://github-readme-streak-stats.herokuapp.com/?user=ecole1rllco&theme=chartreuse-dark&hide_border=true)
 
+## 🌟 R. L. Laughlin Public Apps
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-Play%20Store-green?logo=google-play&style=for-the-badge)]([YOUR_GOOGLE_PLAY_LINK](https://play.google.com/store/apps/details?id=com.rllco.www.flow_rate_calculator))  
+[![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-Download-blue?logo=microsoft&style=for-the-badge)]([YOUR_MICROSOFT_STORE_LINK](https://apps.microsoft.com/detail/9n65x9r5mhwq?hl=en-US&gl=US))
+
 
 <!--
 - 🔭 I’m currently working on app development with WinUI3 and Maui
