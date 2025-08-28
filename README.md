@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/9719d155-33df-4a87-ab3a-0dbf2b2fc4fe" />
+![banner](linkedinBanner.png)
 
 ## 🌸 こんにちは
 
