@@ -9,7 +9,9 @@
 
 ## 🐙 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva%20-%20%23292929?style=for-the-badge&logo=canva&logoColor=%#00C4CC)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Static Badge](https://img.shields.io/badge/CSS3%20-%20%23663399?style=for-the-badge&logo=css) ![Static Badge](https://img.shields.io/badge/HTML5%20-%20%23000000?style=for-the-badge&logo=html5) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva%20-%20%23292929?style=for-the-badge&logo=canva&logoColor=%#00C4CC) ![Static Badge](https://img.shields.io/badge/SQLite%20-%20%23003B57?style=for-the-badge&logo=sqlite&labelColor=%23003B57) ![Static Badge](https://img.shields.io/badge/Java%20-%20%23007396?style=for-the-badge&logo=codeigniter) 
+
+
 
 
 ## 🌟Orifice Flow Rate Calculator
