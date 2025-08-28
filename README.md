@@ -16,9 +16,7 @@
 
 ## 🌟Orifice Flow Rate Calculator
 
-[![Google Play](https://img.shields.io/badge/Google%20Play-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.rllco.www.flow_rate_calculator)
-
-[![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-Download-blue?logo=microsoft&style=for-the-badge)](https://apps.microsoft.com/detail/9n65x9r5mhwq?hl=en-US&gl=US)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.rllco.www.flow_rate_calculator) [![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-Download-blue?logo=microsoft&style=for-the-badge)](https://apps.microsoft.com/detail/9n65x9r5mhwq?hl=en-US&gl=US)
 
 
 ## 🔥Vibes
