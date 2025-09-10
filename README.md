@@ -1,6 +1,6 @@
 ![banner](linkedinBanner.png)
 
-## 🌸 こんにちは
+## 🌸 こんにちは,
 
 - 🌎 Fun fact: I have lived/travelled to Japan, Korea, Australia, New Zealand, and the Phillipines.
 - 💞️ Favortie Games: Chrono Cross, Zelda, Final Fantasy, League of Legends, Stardew Valley
