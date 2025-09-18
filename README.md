@@ -19,7 +19,7 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22vjbo3qfflrsxontchtp22iq&width=1000)
 
-![Streak - Github API Error](https://github-readme-streak-stats.herokuapp.com/?user=ecole1rllco&theme=chartreuse-dark&hide_border=true)
+![Failed to retrieve contributions. This is likely a GitHub API issue.](https://github-readme-streak-stats.herokuapp.com/?user=ecole1rllco&theme=chartreuse-dark&hide_border=true)
 
 <!--
 - 🔭 I’m currently working on app development with WinUI3 and Maui
