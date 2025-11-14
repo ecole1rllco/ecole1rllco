@@ -1,5 +1,3 @@
-![banner](linkedinBanner.png)
-
 ## 🌸 こんにちは,
 
 - 🌎 Fun fact: I have lived/travelled to Japan, Korea, Australia, New Zealand, and the Phillipines.
